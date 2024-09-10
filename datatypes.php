@@ -10,7 +10,7 @@
 
     <?php 
        //String
-      $name = 'Coding is fun';
+      $name = 'The B in coach B stands for Bunny';
    
       //Integer
       $name = 20;
@@ -29,7 +29,7 @@
 
   <h1>
 
-  hey you guys!
+  hey you guys
 </h1>
 </body>
 </html>
