@@ -9,22 +9,12 @@
 
 
     <?php 
-       //String
-      $name = 'Coding is fun';
-   
-      //Integer
-      $name = 20;
-
-       //Float
-       $name = 20.5784;
-
-       //BooLean
-       
-
-       //Array
-       $names = array("Chayce","Chris","Max");
-         echo $names['1'];
-  
+        //This gets something from the database
+        function() {
+          dksahoifasoifas
+        }
+         /*echo "Hi";
+           echo "Daniel";*/
   ?>
 
   <h1>
