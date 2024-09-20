@@ -1,25 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <title>Title of the document</title>
+  <link rel="stlyesheet" type="text/css" href="stlye.css">
 </head>
-<body>
+
+<body> 
+<?php
+   include 'header.php';
+?>
 
 
-    <?php 
-        //This gets something from the database
-        function() {
-          dksahoifasoifas
-        }
-         /*echo "Hi";
-           echo "Daniel";*/
-  ?>
 
-  <h1>
-
-  hey you guys!
-</h1>
 </body>
-</html>
+        
